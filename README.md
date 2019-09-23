@@ -72,7 +72,9 @@ End Sub
 
 **Installation**
 1.  RFC<br>
-1.1  Modify the procedure getSAPTableData in the appSAPRFCLibrary with your RFC connection parameters.
+1.1  Modify the procedure getSAPTableData in the appSAPRFCLibrary with your RFC connection parameters.<br>
+1.2  Set up VBA references listed in module header comments
 
 2.  Scripting<br>
-2.1  Modify the procedure getSession in the appSAPScriptingLibrary with your -sysname name.
+2.1  Modify the procedure getSession in the appSAPScriptingLibrary with your -sysname name.<br>
+2.2  Set up VBA references listed in module header comments
