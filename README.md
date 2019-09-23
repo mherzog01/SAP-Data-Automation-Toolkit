@@ -69,3 +69,10 @@ Sub extractFBL1_OpenItems()
 
 End Sub
 ```
+
+**Installation**
+1.  RFC<br>
+1.1  Modify the procedure getSAPTableData in the appSAPRFCLibrary with your RFC connection parameters.
+
+2.  Scripting<br>
+2.1  Modify the procedure getSession in the appSAPScriptingLibrary with your -sysname name.
