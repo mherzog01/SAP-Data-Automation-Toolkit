@@ -78,3 +78,12 @@ End Sub
 2.  Scripting<br>
 2.1  Modify the procedure getSession in the appSAPScriptingLibrary with your -sysname name.<br>
 2.2  Set up VBA references listed in module header comments
+
+3.  SAP configuration.  
+3.1  Start the SAP client
+3.2  Click the toolbar button, go to "Customize Local LayoutSet Security Configuration"
+3.3  Click on "Open Security Configuration"
+3.4  Change the "Default Action" to "Allow"
+
+![image](https://user-images.githubusercontent.com/51552337/110532321-a5f60b00-80ea-11eb-926b-18c8cd0bdd5e.png)
+
