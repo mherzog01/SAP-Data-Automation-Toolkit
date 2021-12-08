@@ -78,6 +78,7 @@ End Sub
 2.  Scripting<br>
 2.1  Modify the procedure getSession in the appSAPScriptingLibrary with your -sysname name.<br>
 2.2  Set up VBA references listed in module header comments
+       E.g. Microsoft Scripting Runtime
 
 3.  SAP configuration.  
 3.1  Start the SAP client
